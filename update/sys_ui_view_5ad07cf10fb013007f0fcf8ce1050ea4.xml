@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,RPT3c2fdce6c7100300b0ea8b3c5c976386</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-12 19:14:52</sys_created_on>
+        <sys_id>5ad07cf10fb013007f0fcf8ce1050ea4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,rpt3c2fdce6c7100300b0ea8b3c5c976386</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_5ad07cf10fb013007f0fcf8ce1050ea4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-12 19:14:52</sys_updated_on>
+        <title>Sys_popup,rpt3c2fdce6c7100300b0ea8b3c5c976386</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
